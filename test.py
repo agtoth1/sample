@@ -1,3 +1,4 @@
+
 #!/usr/bin/python3
 
 # add library imports
@@ -6,6 +7,7 @@ import re
 import zipfile
 from datetime import datetime
 import pickle
+print("hello world")
 
 # global variables:
 counts = {'fic':{}, 'news':{}, 'spok':{}, 'tvm':{}}
